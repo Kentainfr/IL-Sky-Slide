@@ -16,6 +16,8 @@ A loading screen for FiveM by Infinity Legion.
 # Example
  
 Video demonstration: https://youtu.be/yliZuRvw4iw
-<a href="https://imgur.com/WmC1l9p"><img src="https://i.imgur.com/WmC1l9p.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/CS3GXoY"><img src="https://i.imgur.com/CS3GXoY.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/ErL51Vx"><img src="https://i.imgur.com/ErL51Vx.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/69j8qS1"><img src="https://i.imgur.com/69j8qS1.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/dmhFet7"><img src="https://i.imgur.com/dmhFet7.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/JBuQHPA"><img src="https://i.imgur.com/JBuQHPA.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/9kjM3El"><img src="https://i.imgur.com/9kjM3El.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/AcS18yT"><img src="https://i.imgur.com/AcS18yT.png" title="source: imgur.com" /></a>
